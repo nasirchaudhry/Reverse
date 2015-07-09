@@ -1,0 +1,6 @@
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\bin\Debug\Reverse.exe.config
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\bin\Debug\Reverse.exe
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\bin\Debug\Reverse.pdb
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\obj\Debug\Reverse.exe
+c:\users\dell user\documents\visual studio 2013\Projects\Reverse\Reverse\obj\Debug\Reverse.pdb
